@@ -1,0 +1,12 @@
+.DS_Store
+
+# Personal planning notes and raw recordings (kept local)
+PLAN.html
+recordings/
+private/
+
+# Voice clips recorded from a licensed AAC voice are deployed from the Mac, not committed
+public/audio/
+
+node_modules/
+dist/
